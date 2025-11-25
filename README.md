@@ -787,20 +787,6 @@ A **Lista de Compras Inteligente** é um aplicativo completo e moderno para gere
 
 ---
 
-## 📈 Estatísticas do Projeto
-
-- **Total de Telas:** 17
-- **Total de Componentes:** 17+
-- **Linhas de Código:** ~5.000+
-- **Categorias:** 10
-- **Cores Personalizadas:** 8
-- **Modos de Daltonismo:** 5
-- **Tamanhos de Fonte:** 4
-- **Idiomas:** 1 (PT-BR)
-
----
-
-
   ## Como rodar o projeto
 
   Insira `npm i` para instalar dependencias .
