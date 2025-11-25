@@ -800,70 +800,10 @@ A **Lista de Compras Inteligente** é um aplicativo completo e moderno para gere
 
 ---
 
-## 🚀 Próximos Recursos (Roadmap)
 
-### Em Desenvolvimento
-- [ ] Modo offline completo
-- [ ] Sincronização multi-dispositivo
-- [ ] Scanner de código de barras
-- [ ] Comparador de preços
-- [ ] Lista colaborativa em tempo real
+  ## Como rodar o projeto
 
-### Planejado
-- [ ] Integração com supermercados
-- [ ] Cupons de desconto
-- [ ] Programa de fidelidade
-- [ ] Assistente de voz
-- [ ] Modo família
+  Insira `npm i` para instalar dependencias .
 
----
-
-## 💡 Dicas de Uso
-
-### Para Economizar
-1. Use o sistema de orçamento
-2. Compare preços no histórico
-3. Aproveite as sugestões de economia
-4. Compartilhe listas com a família
-
-### Para Organizar
-1. Use cores diferentes por tipo de compra
-2. Categorize todos os itens
-3. Arquive listas antigas
-4. Use receitas para planejamento
-
-### Para Acessibilidade
-1. Ative o modo adequado ao seu tipo de daltonismo
-2. Ajuste o tamanho da fonte conforme necessário
-3. Use o alto contraste se precisar
-4. Ative redução de animações se causar desconforto
-
----
-
-## 📞 Suporte
-
-**Problemas ou Sugestões?**
-- 📧 Email: suporte@listacompras.app
-- 💬 Chat: Disponível no app
-- 📱 WhatsApp: (11) 99999-9999
-
----
-
-## 📄 Licença
-
-Copyright © 2025 Lista de Compras Inteligente
-Todos os direitos reservados.
-
----
-
-**Desenvolvido com ❤️ usando Figma Make**
-
-*Última atualização: 25 de novembro de 2025*
-
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+  Insira `npm run dev` para iniciar o servidor.
   
