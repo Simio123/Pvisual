@@ -778,13 +778,6 @@ A **Lista de Compras Inteligente** é um aplicativo completo e moderno para gere
 - 🎭 **Motion/React** - Animações
 - 🦋 **Lucide React** - Ícones
 
-### Funcionalidades
-- 🔐 Autenticação local
-- 💾 LocalStorage para persistência
-- 🎨 CSS Variables para temas
-- ♿ ARIA labels completos
-- 📱 Progressive Web App (PWA)
-
 ---
 
   ## Como rodar o projeto
